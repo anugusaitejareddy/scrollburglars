@@ -1,5 +1,27 @@
 /*! tailwindcss v2.0.4 | MIT License | https://tailwindcss.com *//*! modern-normalize v1.0.0 | MIT License | https://github.com/sindresorhus/modern-normalize */
 
+/* Exercise 1 */
+html,body{
+	height: 100%;
+	width: 100%;
+}
+header{
+	border: solid pink;
+}
+
+main{
+	border: solid deeppink;
+}
+
+footer{
+	border: solid red;
+}
+article p{
+	border: solid tomato;
+}
+article p img{
+	max-width: 100%;
+}
 /*
 Document
 ========
